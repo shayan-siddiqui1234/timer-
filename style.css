@@ -1,0 +1,87 @@
+body {
+   background-color: aquamarine;
+}
+
+
+
+.qwe {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(86, 238, 192);
+    width: 1200px;
+    height: 350px;
+    border-style: solid;
+    border-color: darkgreen;
+    padding-left: 5% ;
+    padding-right: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.four {
+    border-style: double;
+    border-color: rgb(143, 95, 187);
+    width: 250px;
+    height: 175px;
+    padding-left: 3%;
+    font-size: 18ch;
+    position: relative;
+
+}
+
+.one {
+    border-style: dotted;
+    border-color: darkgreen;
+    padding-left: 3%;
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+.two {
+    border-style: dotted;
+    border-color: darkgreen;
+    padding-left: 3%;
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+.three {
+    padding-left: 3%;
+    border-style: dotted;
+    border-color: darkgreen;
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+
+
+.asd {
+
+    justify-content: center;
+    padding-top: 2%;
+    display: flex;
+}
+
+.but1 {
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+    background-color: rgb(86, 238, 192);
+}
+
+.but2 {
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+    background-color: rgb(86, 238, 192);
+}
+
+.but3{
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+    background-color: rgb(86, 238, 192);
+} 
